@@ -37,3 +37,7 @@
    [Far Cry 4]: <https://store.steampowered.com/app/298110/Far_Cry_4/>
    [Darkwood]: <https://store.steampowered.com/app/274520/Darkwood/>
    [Island Survival]: <https://play.google.com/store/apps/details?id=com.tory.island&hl=pl&gl=US&pli=1>
+
+
+
+   Najemnik z amnezją zostaje odnaleziony w opuszczonej trupiarce rozbitej na terenie postapokaliptycznego Radomia przez lokalnego handlarza, który pomaga mu odkryć sekret przeszłości oraz przeżyć w świecie pełnym zmutowanych wiewiórek. Pierwszoosbowa strzelanka wzorowana na grach z serii S.T.A.L.K.E.R.
