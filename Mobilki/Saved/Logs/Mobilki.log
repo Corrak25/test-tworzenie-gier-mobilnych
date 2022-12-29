@@ -882,3 +882,1249 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2022.12.29-17.51.36:052][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2022.12.29-17.51.36:984][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F49BC7B5C9D707803B74B654E06666BDBE49EC8F), compiling. 
 [2022.12.29-17.51.37:110][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 1E9B842674A1CE17A87A4FEE5FD2AD09DFEA0846), compiling. 
+[2022.12.29-17.53.20:964][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: CFC3610076EC7192832A3492D59C1D6C5785B4A5), compiling. 
+[2022.12.29-17.53.21:480][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-GNSVQVJ: (Name=DESKTOP-GNSVQVJ, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2022.12.29-17.53.22:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.29-17.53.22:227][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.29-17.53.22:227][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.29-17.53.22:227][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.29-17.53.22:227][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.29-17.53.22:250][  0]LogStaticMesh: Display: Building static mesh PlanarReflectionPlane...
+[2022.12.29-17.53.22:312][  0]LogStaticMesh: Built static mesh [0.08s] /Engine/EditorMeshes/PlanarReflectionPlane.PlanarReflectionPlane
+[2022.12.29-17.53.22:464][  0]LogNetVersion: Mobilki 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 1073504117)
+[2022.12.29-17.53.22:815][  0]LogStaticMesh: Display: Building static mesh SM_CineCam...
+[2022.12.29-17.53.22:913][  0]LogStaticMesh: Built static mesh [0.10s] /Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam
+[2022.12.29-17.53.22:970][  0]LogStaticMesh: Display: Building static mesh EditorCube...
+[2022.12.29-17.53.22:971][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/EditorCube.EditorCube
+[2022.12.29-17.53.23:018][  0]LogStaticMesh: Display: Building static mesh EditorPlane...
+[2022.12.29-17.53.23:020][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/EditorPlane.EditorPlane
+[2022.12.29-17.53.23:022][  0]LogStaticMesh: Display: Building static mesh EditorCylinder...
+[2022.12.29-17.53.23:026][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/EditorCylinder.EditorCylinder
+[2022.12.29-17.53.23:041][  0]LogStaticMesh: Display: Building static mesh EditorSkySphere...
+[2022.12.29-17.53.23:061][  0]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/EditorSkySphere.EditorSkySphere
+[2022.12.29-17.53.23:152][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2022.12.29-17.53.23:152][  0]LogUObjectAllocator: 5786176 out of 0 bytes used by permanent object pool.
+[2022.12.29-17.53.23:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.29-17.53.23:169][  0]LogSlate: Border
+[2022.12.29-17.53.23:169][  0]LogSlate: BreadcrumbButton
+[2022.12.29-17.53.23:169][  0]LogSlate: Brushes.Title
+[2022.12.29-17.53.23:169][  0]LogSlate: Default
+[2022.12.29-17.53.23:169][  0]LogSlate: Icons.Save
+[2022.12.29-17.53.23:169][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.29-17.53.23:169][  0]LogSlate: ListView
+[2022.12.29-17.53.23:169][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.29-17.53.23:169][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.29-17.53.23:169][  0]LogSlate: TableView.DarkRow
+[2022.12.29-17.53.23:169][  0]LogSlate: TableView.Row
+[2022.12.29-17.53.23:169][  0]LogSlate: TreeView
+[2022.12.29-17.53.23:373][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DDD2C6C64B7A47BA1FAE2AA5B55B19BC | Instance: 8BCAFE0E4BED32F09FD1CA919F8ED7D6 (DESKTOP-GNSVQVJ-20484).
+[2022.12.29-17.53.23:507][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.29-17.53.23:525][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2022.12.29-17.53.23:677][  0]LogPython: Using Python 3.9.7
+[2022.12.29-17.53.24:418][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.29-17.53.24:442][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.29-17.53.24:444][  0]LogUdpMessaging: Display: Added local interface '192.168.0.171' to multicast group '230.0.0.1:6666'
+[2022.12.29-17.53.24:576][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.29-17.53.24:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.29-17.53.24:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.29-17.53.24:940][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.29-17.53.25:010][  0]SourceControl: Source control is disabled
+[2022.12.29-17.53.25:015][  0]SourceControl: Source control is disabled
+[2022.12.29-17.53.25:019][  0]SourceControl: Source control is disabled
+[2022.12.29-17.53.25:023][  0]LogUProjectInfo: Found projects:
+[2022.12.29-17.53.25:248][  0]LogCollectionManager: Loaded 0 collections in 0.001790 seconds
+[2022.12.29-17.53.25:249][  0]LogFileCache: Scanning file cache for directory 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Collections/' took 0.00s
+[2022.12.29-17.53.25:250][  0]LogFileCache: Scanning file cache for directory 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Developers/Corrak/Collections/' took 0.00s
+[2022.12.29-17.53.25:251][  0]LogFileCache: Scanning file cache for directory 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Collections/' took 0.00s
+[2022.12.29-17.53.25:580][  0]LogEngine: Initializing Engine...
+[2022.12.29-17.53.25:587][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.12.29-17.53.25:601][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.29-17.53.25:603][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 659A670D7B11155B33FE0FA74538AE00DC88D168), compiling. Is special engine material.
+[2022.12.29-17.53.25:606][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 4ABC2C9B617E4C5A1CA054C0D5DCCB7323F80FAD), compiling. Is special engine material.
+[2022.12.29-17.53.25:609][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 20B27FE1E4D6668032DE64CE896209668496D669), compiling. Is special engine material.
+[2022.12.29-17.53.25:612][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 12689C2CC98FF07D2F2171D168A44FFE5FCD93F7), compiling. Is special engine material.
+[2022.12.29-17.53.25:615][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: CA9635B74B6E5CE85B8A89CDC051075CCABCA393), compiling. Is special engine material.
+[2022.12.29-17.53.25:618][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: EDE48AA4156A5667C76AFB7EAA77569B323E8CBE), compiling. Is special engine material.
+[2022.12.29-17.53.25:688][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.29-17.53.25:701][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-17.53.25:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.29-17.53.25:716][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.29-17.53.25:716][  0]LogInit: Texture streaming: Enabled
+[2022.12.29-17.53.25:733][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.0-23058290+++UE5+Release-5.1
+[2022.12.29-17.53.25:742][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.29-17.53.25:754][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.29-17.53.25:754][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.29-17.53.25:756][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-17.53.25:757][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-17.53.25:757][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-17.53.25:758][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-17.53.25:758][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-17.53.25:758][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-17.53.25:762][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-17.53.25:804][  0]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-17.53.25:805][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-17.53.25:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-17.53.25:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-17.53.25:807][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.29-17.53.25:807][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.29-17.53.25:808][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.29-17.53.25:808][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.29-17.53.25:808][  0]LogInit: FAudioDevice initialized.
+[2022.12.29-17.53.25:808][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.29-17.53.25:819][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.29-17.53.25:824][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.29-17.53.25:824][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.12.29-17.53.25:825][  0]LogLiveCoding: Display: First instance in process group "UE_Mobilki_0x0850d5bc", spawning console
+[2022.12.29-17.53.25:830][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.29-17.53.26:297][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.29-17.53.26:309][  0]LogInit: Transaction tracking system initialized
+[2022.12.29-17.53.26:331][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2022.12.29-17.53.26:334][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002108 seconds (Found 115 uncontrolled assets)
+[2022.12.29-17.53.26:359][  0]BlueprintLog: New page: Editor Load
+[2022.12.29-17.53.26:477][  0]LocalizationService: Localization service is disabled
+[2022.12.29-17.53.26:501][  0]TimingProfiler: Initialize
+[2022.12.29-17.53.26:501][  0]TimingProfiler: OnSessionChanged
+[2022.12.29-17.53.26:501][  0]LoadingProfiler: Initialize
+[2022.12.29-17.53.26:501][  0]LoadingProfiler: OnSessionChanged
+[2022.12.29-17.53.26:501][  0]NetworkingProfiler: Initialize
+[2022.12.29-17.53.26:501][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.29-17.53.26:501][  0]MemoryProfiler: Initialize
+[2022.12.29-17.53.26:501][  0]MemoryProfiler: OnSessionChanged
+[2022.12.29-17.53.26:719][  0]LogFileCache: Scanning file cache for directory 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/' took 0.00s
+[2022.12.29-17.53.27:226][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2022.12.29-17.53.27:353][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.29-17.53.27:413][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.29-17.53.27:415][  0]SourceControl: Source control is disabled
+[2022.12.29-17.53.27:415][  0]LogUnrealEdMisc: Loading editor; pre map load, took 122.383
+[2022.12.29-17.53.27:461][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic gry/UE_5.1/FeaturePacks/StarterContent.upack)
+[2022.12.29-17.53.28:049][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.12.29-17.53.28:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.12.29-17.53.28:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.12.29-17.53.28:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.12.29-17.53.28:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.12.29-17.53.28:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.12.29-17.53.28:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.12.29-17.53.28:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.12.29-17.53.28:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.12.29-17.53.28:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.12.29-17.53.28:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.12.29-17.53.28:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.12.29-17.53.28:509][  0]LogDerivedDataCache: C:/Users/Corrak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.083 and deleted 0 files with total size 0 MiB. Scanned 1779 files in 1766 folders with total size 655 MiB.
+[2022.12.29-17.53.28:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.12.29-17.53.28:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.12.29-17.53.28:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.12.29-17.53.28:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.12.29-17.53.28:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.12.29-17.53.28:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.12.29-17.53.28:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.12.29-17.53.28:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.12.29-17.53.28:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.12.29-17.53.28:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.12.29-17.53.28:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.12.29-17.53.28:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.12.29-17.53.28:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.12.29-17.53.28:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.12.29-17.53.28:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.12.29-17.53.28:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.12.29-17.53.29:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.12.29-17.53.29:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.12.29-17.53.29:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.12.29-17.53.29:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/StarterMap.umap"
+[2022.12.29-17.53.29:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.12.29-17.53.29:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.12.29-17.53.29:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.12.29-17.53.29:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.12.29-17.53.29:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.12.29-17.53.29:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.12.29-17.53.29:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.12.29-17.53.29:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Fire01.uasset"
+[2022.12.29-17.53.29:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.12.29-17.53.29:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.12.29-17.53.29:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.12.29-17.53.29:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Light01.uasset"
+[2022.12.29-17.53.29:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.12.29-17.53.29:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Light02.uasset"
+[2022.12.29-17.53.29:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.12.29-17.53.29:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.12.29-17.53.29:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.12.29-17.53.29:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.12.29-17.53.29:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.12.29-17.53.29:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.12.29-17.53.29:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.12.29-17.53.29:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.12.29-17.53.29:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.12.29-17.53.29:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Steam01.uasset"
+[2022.12.29-17.53.29:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.12.29-17.53.29:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.12.29-17.53.29:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.12.29-17.53.29:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.12.29-17.53.29:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.12.29-17.53.29:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.12.29-17.53.29:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.12.29-17.53.29:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.12.29-17.53.29:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.12.29-17.53.29:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.12.29-17.53.29:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.12.29-17.53.29:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.12.29-17.53.29:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.12.29-17.53.29:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.12.29-17.53.29:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.12.29-17.53.29:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.12.29-17.53.29:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.12.29-17.53.29:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.12.29-17.53.29:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.12.29-17.53.29:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.12.29-17.53.29:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.12.29-17.53.29:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.12.29-17.53.29:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.12.29-17.53.29:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.12.29-17.53.29:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.12.29-17.53.29:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Door.uasset"
+[2022.12.29-17.53.29:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.12.29-17.53.29:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.12.29-17.53.29:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.12.29-17.53.29:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.12.29-17.53.29:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.12.29-17.53.29:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.12.29-17.53.29:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.12.29-17.53.29:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.12.29-17.53.29:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.12.29-17.53.29:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.12.29-17.53.29:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.12.29-17.53.29:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.12.29-17.53.29:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.12.29-17.53.29:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.12.29-17.53.29:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.12.29-17.53.29:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.12.29-17.53.29:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.12.29-17.53.29:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.12.29-17.53.29:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.12.29-17.53.29:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.12.29-17.53.29:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.12.29-17.53.29:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.12.29-17.53.29:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.12.29-17.53.29:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.12.29-17.53.29:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.12.29-17.53.29:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.12.29-17.53.29:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.12.29-17.53.29:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.12.29-17.53.29:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.12.29-17.53.29:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.12.29-17.53.29:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.12.29-17.53.29:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.12.29-17.53.29:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.12.29-17.53.29:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.12.29-17.53.29:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.12.29-17.53.29:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.12.29-17.53.29:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.12.29-17.53.29:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.12.29-17.53.29:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.12.29-17.53.29:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.12.29-17.53.29:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.12.29-17.53.29:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.12.29-17.53.29:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.12.29-17.53.29:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.12.29-17.53.29:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.12.29-17.53.29:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.12.29-17.53.29:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.12.29-17.53.29:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.12.29-17.53.29:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.12.29-17.53.29:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.12.29-17.53.29:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.12.29-17.53.29:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.12.29-17.53.30:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.12.29-17.53.30:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.12.29-17.53.30:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.12.29-17.53.30:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.12.29-17.53.30:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.12.29-17.53.30:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.12.29-17.53.30:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.12.29-17.53.30:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.12.29-17.53.30:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.12.29-17.53.30:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.12.29-17.53.30:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.12.29-17.53.30:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.12.29-17.53.30:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.12.29-17.53.30:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.12.29-17.53.30:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.12.29-17.53.31:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.12.29-17.53.31:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.12.29-17.53.31:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.12.29-17.53.31:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.12.29-17.53.31:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.12.29-17.53.31:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.12.29-17.53.31:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.12.29-17.53.31:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.12.29-17.53.31:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.12.29-17.53.31:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.12.29-17.53.31:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.12.29-17.53.31:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.12.29-17.53.31:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.12.29-17.53.31:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.12.29-17.53.31:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.12.29-17.53.31:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.12.29-17.53.31:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.12.29-17.53.31:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.12.29-17.53.31:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.12.29-17.53.31:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.12.29-17.53.32:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.12.29-17.53.32:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.12.29-17.53.32:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.12.29-17.53.32:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.12.29-17.53.32:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.12.29-17.53.32:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.12.29-17.53.32:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.12.29-17.53.32:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.12.29-17.53.32:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.12.29-17.53.32:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.12.29-17.53.32:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.12.29-17.53.32:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.12.29-17.53.32:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.12.29-17.53.32:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.12.29-17.53.32:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.12.29-17.53.32:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.12.29-17.53.32:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.12.29-17.53.32:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.12.29-17.53.32:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.12.29-17.53.32:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.12.29-17.53.32:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.12.29-17.53.32:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.12.29-17.53.32:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.12.29-17.53.32:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.12.29-17.53.33:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.12.29-17.53.33:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.12.29-17.53.33:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.12.29-17.53.33:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.12.29-17.53.33:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.12.29-17.53.33:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.12.29-17.53.33:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.12.29-17.53.33:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.12.29-17.53.33:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.12.29-17.53.33:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.12.29-17.53.33:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.12.29-17.53.33:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.12.29-17.53.33:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.12.29-17.53.33:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.12.29-17.53.34:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.12.29-17.53.34:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.12.29-17.53.34:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.12.29-17.53.34:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.12.29-17.53.34:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.12.29-17.53.34:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.12.29-17.53.34:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.12.29-17.53.34:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.12.29-17.53.34:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.12.29-17.53.34:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.12.29-17.53.34:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.12.29-17.53.34:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.12.29-17.53.34:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.12.29-17.53.34:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.12.29-17.53.34:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.12.29-17.53.34:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.12.29-17.53.34:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.12.29-17.53.34:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.12.29-17.53.34:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.12.29-17.53.34:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.12.29-17.53.34:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.12.29-17.53.34:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.12.29-17.53.34:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.12.29-17.53.34:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.12.29-17.53.34:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.12.29-17.53.34:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.12.29-17.53.35:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.12.29-17.53.35:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.12.29-17.53.35:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.12.29-17.53.35:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.12.29-17.53.35:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.12.29-17.53.35:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.12.29-17.53.35:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.12.29-17.53.35:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.12.29-17.53.35:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.12.29-17.53.35:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.12.29-17.53.35:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.12.29-17.53.35:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.12.29-17.53.35:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.12.29-17.53.35:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.12.29-17.53.35:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.12.29-17.53.35:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.12.29-17.53.35:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.12.29-17.53.35:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.12.29-17.53.35:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.12.29-17.53.35:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.12.29-17.53.35:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.12.29-17.53.35:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.12.29-17.53.35:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.12.29-17.53.35:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.12.29-17.53.35:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.12.29-17.53.35:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.12.29-17.53.35:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.12.29-17.53.35:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.12.29-17.53.35:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.12.29-17.53.35:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.12.29-17.53.35:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.12.29-17.53.35:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.12.29-17.53.35:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.12.29-17.53.35:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.12.29-17.53.35:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.12.29-17.53.35:619][  0]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2022.12.29-17.53.35:621][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.29-17.53.35:666][  0]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2022.12.29-17.53.35:668][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.29-17.53.35:872][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-17.53.36:765][  0]LogMeshUtilities: Finished distance field build in 1.1s - 21x7x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 1509 triangles, MatineeCam_SM
+[2022.12.29-17.53.36:765][  0]LogMeshUtilities: Finished distance field build in 1.1s - 7x21x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 2084 triangles, SM_CineCam
+[2022.12.29-17.53.37:078][  0]LogMeshUtilities: Finished distance field build in 1.4s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 4 triangles, EditorCube
+[2022.12.29-17.53.37:155][  0]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 682 triangles, PlanarReflectionPlane
+[2022.12.29-17.53.37:283][  0]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.187044 seconds
+[2022.12.29-17.53.37:304][  0]LogSerialization: UsePackageTrailer: 'true'
+[2022.12.29-17.53.37:356][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2022.12.29-17.53.37:357][  0]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Floor_400x400986860744F32E2A221E36EAF12C8320B.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.12.29-17.53.37:408][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.54 sec
+[2022.12.29-17.53.37:419][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.12.29-17.53.37:419][  0]Cmd: MAP LOAD FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2022.12.29-17.53.37:419][  0]LightingResults: New page: Lighting Build
+[2022.12.29-17.53.37:426][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-17.53.37:426][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-17.53.37:426][  0]MapCheck: New page: Map Check
+[2022.12.29-17.53.37:426][  0]LightingResults: New page: Lighting Build
+[2022.12.29-17.53.37:434][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-17.53.37:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.29-17.53.38:217][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.12.29-17.53.38:217][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-17.53.38:218][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-17.53.38:219][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-17.53.38:219][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-17.53.38:219][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-17.53.38:350][  0]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-17.53.38:350][  0]LogWorldPartition: Display: WorldPartition initialize took 130 ms
+[2022.12.29-17.53.38:402][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_FPGun) ...
+[2022.12.29-17.53.38:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.29-17.53.38:687][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.29-17.53.38:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.29-17.53.38:688][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,283ms to complete.
+[2022.12.29-17.53.38:688][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.269
+[2022.12.29-17.53.38:743][  0]LogUnrealEdMisc: Total Editor Startup Time, took 133.711
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: ================================================
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Total job queries 1205, among them cache hits 0 (0.00%)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Tracking 1195 distinct input hashes that result in 725 distinct outputs (60.67%)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: RAM used: 6.12 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.37%
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Shaders Compiled: 1195
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Jobs assigned 1203, completed 1195 (99.33%)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Average time worker was idle: 0.88 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 56.34 s, longest 103.07 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Job execution time: average 6.79 s, max 26.15 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 63.52 s, max 103.88
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 106.63 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Jobs were issued in 157 batches (only local compilation was used), average 7.66 jobs/batch
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Average processing rate: 11.21 jobs/sec
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Total thread time: 652.76 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Total thread preprocess time: 37.95 s
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Percentage time preprocessing: 5.81%
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Effective parallelization: 6.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   56 times, average 0.80 sec, max 1.24 sec, min 0.48 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   10 times, average 0.76 sec, max 1.54 sec, min 0.60 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   10 times, average 0.76 sec, max 1.63 sec, min 0.54 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 11.14% of total time (compiled  120 times, average 0.61 sec, max 0.83 sec, min 0.43 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.86% of total time (compiled   56 times, average 0.80 sec, max 1.24 sec, min 0.48 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                               FHWRasterizePS - 4.65% of total time (compiled   56 times, average 0.54 sec, max 0.86 sec, min 0.27 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.05% of total time (compiled   30 times, average 0.66 sec, max 1.60 sec, min 0.48 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 2.58% of total time (compiled   29 times, average 0.58 sec, max 0.80 sec, min 0.35 sec)
+[2022.12.29-17.53.38:743][  0]LogShaderCompilers: Display: ================================================
+[2022.12.29-17.53.38:852][  0]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2022.12.29-17.53.39:176][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.29-17.53.39:176][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.29-17.53.39:176][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.29-17.53.39:176][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.29-17.53.39:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-17.53.39:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-17.53.39:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-17.53.39:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-17.53.40:662][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:663][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:663][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:664][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:664][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:664][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:666][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic gry/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.29-17.53.40:996][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.29-17.53.41:071][  0]LogSlate: Took 0.023509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.29-17.53.41:089][  0]LogViewport: Scene viewport resized to 1430x902, mode Windowed.
+[2022.12.29-17.53.41:263][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.29-17.53.42:699][  0]LogStall: Startup...
+[2022.12.29-17.53.42:700][  0]LogStall: Startup complete.
+[2022.12.29-17.53.42:713][  0]LogLoad: (Engine Initialization) Total time: 137.68 seconds
+[2022.12.29-17.53.42:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.29-17.53.42:791][  0]LogEditorViewport: Clicking Background
+[2022.12.29-17.53.42:808][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.12.29-17.53.42:821][  0]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.29-17.53.43:032][  0]LogAssetRegistry: Asset discovery search completed in 128.7912 seconds
+[2022.12.29-17.53.43:052][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.12.29-17.53.43:198][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.29-17.53.49:000][294]LogSlate: Took 0.037434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.29-17.53.50:156][367]LogViewport: Scene viewport resized to 950x582, mode Windowed.
+[2022.12.29-17.53.59:330][255]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.29-17.53.59:349][255]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.29-17.53.59:375][256]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.29-17.54.08:688][366]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.12.29-17.54.08:688][366]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.29-17.54.55:855][433]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims/AimFire.FBX)
+[2022.12.29-17.54.56:061][433]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims/AimFire.FBX
+[2022.12.29-17.54.56:141][433]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.55.22:642][433]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.29-17.55.22:693][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.29-17.55.22:694][433]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2022.12.29-17.55.23:155][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.29-17.55.23:165][433]FBXImport: Import was canceled. 
+[2022.12.29-17.55.23:221][433]LogAssetTools: The import task was canceled.
+[2022.12.29-17.55.27:216][718]LogSlate: Window 'Message Log' being destroyed
+[2022.12.29-17.55.27:220][718]LogSlate: Window 'Message Log' being destroyed
+[2022.12.29-17.55.55:712][ 42]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.29-17.55.55:720][ 42]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.29-17.55.55:748][ 44]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.29-17.55.59:867][535]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2022.12.29-17.55.59:868][535]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.29-17.56.46:213][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Arms\Arms.fbx)
+[2022.12.29-17.56.46:220][916]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Arms\Arms.fbx
+[2022.12.29-17.56.46:312][916]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.57.06:006][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.29-17.57.06:081][916]LogFbx: Valid bind pose for Pose (SK_Man_Full_01) - SK_Man_Full_01.001
+[2022.12.29-17.57.06:100][916]LogMaterial: Display: Material /Game/Assets/Character/M_Man_Body.M_Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.29-17.57.06:161][916]LogFbxMaterialImport: Display: Unable to find Texture file D:\ГОТОВЫЕ МОДЕЛИ ДЛЯ  UE4\1Man\Textures\Body\T_Man_Body_Albedo.tga
+[2022.12.29-17.57.06:161][916]LogFbxMaterialImport: Display: Unable to find Texture file D:\ГОТОВЫЕ МОДЕЛИ ДЛЯ  UE4\1Man\Textures\Body\T_Man_Body_Normals.tga
+[2022.12.29-17.57.06:202][916]LogFbx: Bones digested - 68  Depth of hierarchy - 12
+[2022.12.29-17.57.06:576][916]LogSkeletalMesh: Section 0: Material=0, 16060 triangles
+[2022.12.29-17.57.06:585][916]LogSkeletalMesh: Building Skeletal Mesh Arms...
+[2022.12.29-17.57.06:601][916]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Arms) ...
+[2022.12.29-17.57.06:848][916]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/Assets/Character/Arms.Arms
+[2022.12.29-17.57.06:926][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-17.57.07:012][916]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-17.57.07:012][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-17.57.07:093][916]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: ================================================
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Total job queries 1339, among them cache hits 9 (0.67%)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Tracking 1295 distinct input hashes that result in 810 distinct outputs (62.55%)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: RAM used: 7.00 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.43%
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Shaders Compiled: 1295
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Jobs assigned 1298, completed 1295 (99.77%)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Average time worker was idle: 4.52 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Time job spent in pending queue: average 52.44 s, longest 103.07 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Job execution time: average 6.53 s, max 26.15 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Job life time (pending + execution): average 59.09 s, max 103.88
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 119.45 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Jobs were issued in 213 batches (only local compilation was used), average 6.09 jobs/batch
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Average processing rate: 10.84 jobs/sec
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Total thread time: 735.54 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Total thread preprocess time: 41.97 s
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Percentage time preprocessing: 5.71%
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Effective parallelization: 6.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.65 sec, max 1.65 sec, min 1.65 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.24 sec, max 2.08 sec, min 0.80 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 9.88% of total time (compiled  120 times, average 0.61 sec, max 0.83 sec, min 0.43 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.09% of total time (compiled   56 times, average 0.80 sec, max 1.24 sec, min 0.48 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.15% of total time (compiled   40 times, average 0.76 sec, max 1.60 sec, min 0.48 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                               FHWRasterizePS - 4.12% of total time (compiled   56 times, average 0.54 sec, max 0.86 sec, min 0.27 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.44% of total time (compiled   39 times, average 0.65 sec, max 1.06 sec, min 0.35 sec)
+[2022.12.29-17.57.07:935][963]LogShaderCompilers: Display: ================================================
+[2022.12.29-17.57.30:683][614]LogInterchangeEngine: [Pending] Importing
+[2022.12.29-17.57.30:684][614]LogInterchangeEngine: [Pending] Importing -  (2)
+[2022.12.29-17.57.30:684][614]LogInterchangeEngine: [Pending] Importing -  (3)
+[2022.12.29-17.57.30:684][614]LogInterchangeEngine: [Pending] Importing -  (4)
+[2022.12.29-17.57.30:702][615]LogInterchangeEngine: [Pending] Importing -  (4)
+[2022.12.29-17.57.31:388][616]LogInterchangeEngine: [Pending] Importing -  (3)
+[2022.12.29-17.57.31:388][616]LogInterchangeEngine: [Pending] Importing -  (2)
+[2022.12.29-17.57.31:388][616]LogInterchangeEngine: [Pending] Importing -  (1)
+[2022.12.29-17.57.31:397][616]LogTexture: Display: Building textures: /Game/Assets/Character/T_Man_Body_Albedo.T_Man_Body_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2022.12.29-17.57.31:397][616]LogTexture: Display: Building textures: /Game/Assets/Character/T_Man_Body_Normals.T_Man_Body_Normals (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2022.12.29-17.57.31:399][616]LogTexture: Display: Building textures: /Game/Assets/Character/T_Man_Body_Metallic.T_Man_Body_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2022.12.29-17.57.31:400][616]LogTexture: Display: Building textures: /Game/Assets/Character/T_Man_Body_Ao.T_Man_Body_Ao (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2022.12.29-17.57.31:416][616]LogInterchangeEngine: [Success] Import Done
+[2022.12.29-17.57.31:451][617]LogInterchangeEngine: [Success] Import Done
+[2022.12.29-17.57.32:385][619]LogInterchangePipeline: Display: Auto-detected normal map
+[2022.12.29-17.57.32:395][619]LogTexture: Display: Building textures: /Game/Assets/Character/T_Man_Body_Normals.T_Man_Body_Normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2022.12.29-17.57.51:584][613]LogSlate: Window 'Message Log' being destroyed
+[2022.12.29-17.57.51:589][613]LogSlate: Window 'Message Log' being destroyed
+[2022.12.29-17.58.00:518][201]LogSlate: Window 'Content Browser' being destroyed
+[2022.12.29-17.58.07:232][958]LogViewport: Scene viewport resized to 950x583, mode Windowed.
+[2022.12.29-17.58.07:270][958]LogViewport: Scene viewport resized to 950x594, mode Windowed.
+[2022.12.29-17.58.07:308][958]LogViewport: Scene viewport resized to 950x613, mode Windowed.
+[2022.12.29-17.58.07:345][958]LogViewport: Scene viewport resized to 950x629, mode Windowed.
+[2022.12.29-17.58.07:383][958]LogViewport: Scene viewport resized to 950x638, mode Windowed.
+[2022.12.29-17.58.07:420][958]LogViewport: Scene viewport resized to 950x665, mode Windowed.
+[2022.12.29-17.58.07:458][958]LogViewport: Scene viewport resized to 950x690, mode Windowed.
+[2022.12.29-17.58.07:496][958]LogViewport: Scene viewport resized to 950x698, mode Windowed.
+[2022.12.29-17.58.09:302][153]LogViewport: Scene viewport resized to 951x698, mode Windowed.
+[2022.12.29-17.58.09:339][153]LogViewport: Scene viewport resized to 968x698, mode Windowed.
+[2022.12.29-17.58.09:397][153]LogViewport: Scene viewport resized to 998x698, mode Windowed.
+[2022.12.29-17.58.09:448][153]LogViewport: Scene viewport resized to 1002x698, mode Windowed.
+[2022.12.29-17.58.09:489][153]LogViewport: Scene viewport resized to 1013x698, mode Windowed.
+[2022.12.29-17.58.09:526][153]LogViewport: Scene viewport resized to 1033x698, mode Windowed.
+[2022.12.29-17.58.09:581][153]LogViewport: Scene viewport resized to 1080x698, mode Windowed.
+[2022.12.29-17.58.09:630][153]LogViewport: Scene viewport resized to 1099x698, mode Windowed.
+[2022.12.29-17.58.14:662][634]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.29-17.58.14:669][634]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.29-17.58.14:678][635]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.29-17.58.18:244][ 62]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.12.29-17.58.18:244][ 62]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.29-17.58.38:333][526]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimFire.FBX)
+[2022.12.29-17.58.38:341][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimFire.FBX
+[2022.12.29-17.58.38:371][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.58.47:707][526]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.29-17.59.01:409][526]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.01:451][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.01:452][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.01:453][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.01:514][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:676][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/AimFire.AimFire
+[2022.12.29-17.59.01:679][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimPose.FBX)
+[2022.12.29-17.59.01:685][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimPose.FBX
+[2022.12.29-17.59.01:713][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.01:714][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.01:714][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.01:714][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.01:715][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.01:715][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.01:761][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:815][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/AimPose.AimPose
+[2022.12.29-17.59.01:824][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimtoIdle.FBX)
+[2022.12.29-17.59.01:830][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\AimtoIdle.FBX
+[2022.12.29-17.59.01:860][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.01:861][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.01:861][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.01:911][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:015][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\Idle.FBX)
+[2022.12.29-17.59.02:022][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\Idle.FBX
+[2022.12.29-17.59.02:062][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.02:064][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.02:064][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.02:110][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:606][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\IdleFIre.FBX)
+[2022.12.29-17.59.02:612][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\IdleFIre.FBX
+[2022.12.29-17.59.02:641][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.02:642][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.02:643][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.02:643][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.02:690][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:805][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\IdleToAim.FBX)
+[2022.12.29-17.59.02:812][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\IdleToAim.FBX
+[2022.12.29-17.59.02:841][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.02:843][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.02:843][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.02:892][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.02:982][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\Reload.FBX)
+[2022.12.29-17.59.02:989][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\Reload.FBX
+[2022.12.29-17.59.03:020][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.03:021][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.03:022][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.03:022][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.03:067][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:306][526]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\run.FBX)
+[2022.12.29-17.59.03:312][526]LogFbx: Loading FBX Scene from C:\Users\Corrak\Desktop\FPS Zombie\FPS Zombie\Character Anims\run.FBX
+[2022.12.29-17.59.03:341][526]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(0) root
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(1) pelvis
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(2) spine_01
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(3) spine_02
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(4) spine_03
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(5) clavicle_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(6) upperarm_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(7) lowerarm_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(8) hand_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(9) index_01_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(10) index_02_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(11) index_03_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(12) middle_01_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(13) middle_02_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(14) middle_03_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(15) pinky_01_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(16) pinky_02_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(17) pinky_03_l
+[2022.12.29-17.59.03:342][526]LogFbx: SortedLinks :(18) ring_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(19) ring_02_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(20) ring_03_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(21) thumb_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(22) thumb_02_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(23) thumb_03_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(26) clavicle_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(27) upperarm_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(28) lowerarm_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(29) hand_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(30) index_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(31) index_02_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(32) index_03_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(33) middle_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(34) middle_02_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(35) middle_03_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(36) pinky_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(37) pinky_02_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(38) pinky_03_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(39) ring_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(40) ring_02_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(41) ring_03_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(42) thumb_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(43) thumb_02_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(44) thumb_03_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(47) neck_01
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(48) head
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(49) thigh_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(50) calf_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(52) foot_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(53) ball_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(55) thigh_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(56) calf_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(58) foot_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(59) ball_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(61) ik_foot_root
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(62) ik_foot_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(63) ik_foot_r
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(64) ik_hand_root
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(65) ik_hand_gun
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(66) ik_hand_l
+[2022.12.29-17.59.03:343][526]LogFbx: SortedLinks :(67) ik_hand_r
+[2022.12.29-17.59.03:343][526]LogFbx: Parsing AnimStack Unreal Take
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName : blendOrient1
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName : blendParent1
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName : Pose_0
+[2022.12.29-17.59.03:387][526]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2022.12.29-17.59.03:511][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/run.run
+[2022.12.29-17.59.03:511][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/Reload.Reload
+[2022.12.29-17.59.03:543][528]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/IdleToAim.IdleToAim
+[2022.12.29-17.59.03:561][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/IdleFIre.IdleFIre
+[2022.12.29-17.59.03:561][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/Idle.Idle
+[2022.12.29-17.59.03:578][531]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/AimtoIdle.AimtoIdle
