@@ -2128,3 +2128,765 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2022.12.29-17.59.03:561][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/IdleFIre.IdleFIre
 [2022.12.29-17.59.03:561][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/Idle.Idle
 [2022.12.29-17.59.03:578][531]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Animations/AimtoIdle.AimtoIdle
+[2022.12.29-18.02.11:049][737]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Character/M_Man_Body.M_Man_Body
+[2022.12.29-18.02.11:188][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.02.11:251][737]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.12.29-18.02.11:267][737]LogStaticMesh: Display: Building static mesh Sphere_inversenormals...
+[2022.12.29-18.02.11:307][737]LogStaticMesh: Built static mesh [0.08s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2022.12.29-18.02.11:325][737]LogStaticMesh: Display: Building static mesh Floor_Mesh...
+[2022.12.29-18.02.11:327][737]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2022.12.29-18.02.11:625][737]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.02.11:625][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.29-18.02.11:625][737]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.02.11:633][737]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.29-18.02.11:637][737]LogViewport: Scene viewport resized to 239x240, mode Windowed.
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: ================================================
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Total job queries 1361, among them cache hits 13 (0.96%)
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Tracking 1308 distinct input hashes that result in 819 distinct outputs (62.61%)
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: RAM used: 7.11 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.43%
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Shaders Compiled: 1308
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Jobs assigned 1316, completed 1308 (99.39%)
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Average time worker was idle: 18.52 s
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Time job spent in pending queue: average 51.73 s, longest 103.07 s
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Job execution time: average 6.47 s, max 26.15 s
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Job life time (pending + execution): average 58.51 s, max 103.88
+[2022.12.29-18.02.12:064][738]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 121.44 s
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Jobs were issued in 231 batches (only local compilation was used), average 5.70 jobs/batch
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Average processing rate: 10.77 jobs/sec
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Total thread time: 741.40 s
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Total thread preprocess time: 42.32 s
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Percentage time preprocessing: 5.71%
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Effective parallelization: 6.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.65 sec, max 1.65 sec, min 1.65 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.24 sec, max 2.08 sec, min 0.80 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 9.81% of total time (compiled  120 times, average 0.61 sec, max 0.83 sec, min 0.43 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.04% of total time (compiled   56 times, average 0.80 sec, max 1.24 sec, min 0.48 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.36% of total time (compiled   43 times, average 0.75 sec, max 1.60 sec, min 0.48 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                               FHWRasterizePS - 4.09% of total time (compiled   56 times, average 0.54 sec, max 0.86 sec, min 0.27 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.64% of total time (compiled   42 times, average 0.64 sec, max 1.06 sec, min 0.35 sec)
+[2022.12.29-18.02.12:065][738]LogShaderCompilers: Display: ================================================
+[2022.12.29-18.02.12:088][739]MaterialEditorStats: Base pass shader: 216 instructions
+[2022.12.29-18.02.12:088][739]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2022.12.29-18.02.12:088][739]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.29-18.02.12:088][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.29-18.02.12:088][739]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.02.12:119][740]LogSlate: Took 0.016027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.29-18.02.13:935][837]LogViewport: Scene viewport resized to 238x251, mode Windowed.
+[2022.12.29-18.02.13:994][839]LogViewport: Scene viewport resized to 196x198, mode Windowed.
+[2022.12.29-18.02.14:016][840]LogViewport: Scene viewport resized to 177x174, mode Windowed.
+[2022.12.29-18.02.14:703][920]LogViewport: Scene viewport resized to 336x347, mode Windowed.
+[2022.12.29-18.02.16:016][ 74]LogSlate: Window 'M_Man_Body' being destroyed
+[2022.12.29-18.02.58:827][ 48]LogViewport: Scene viewport resized to 439x449, mode Windowed.
+[2022.12.29-18.03.08:884][242]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.08:884][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.29-18.03.08:884][242]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.03.09:664][333]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2022.12.29-18.03.09:664][333]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.09:664][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.29-18.03.09:664][333]MaterialEditorStats: Shader Count: 3
+[2022.12.29-18.03.09:765][345]MaterialEditorStats: Base pass shader: 211 instructions
+[2022.12.29-18.03.09:765][345]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2022.12.29-18.03.09:765][345]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.29-18.03.09:765][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.29-18.03.09:765][345]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.03.14:124][704]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.14:124][704]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.29-18.03.14:124][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.14:124][704]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.03.14:599][757]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.29-18.03.14:599][757]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.29-18.03.14:599][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.14:599][757]MaterialEditorStats: Shader Count: 1
+[2022.12.29-18.03.14:799][781]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.14:799][781]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.29-18.03.14:799][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.29-18.03.14:799][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.14:799][781]MaterialEditorStats: Shader Count: 3
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: Base pass shader: 218 instructions
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: Texture samplers: 3/16
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.14:900][793]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.03.24:613][791]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.24:613][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.29-18.03.24:613][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.24:613][791]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.03.25:048][838]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.29-18.03.25:048][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.29-18.03.25:048][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.25:048][838]MaterialEditorStats: Shader Count: 1
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: Base pass shader: 221 instructions
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.25:905][940]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.03.28:902][288]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.28:902][288]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.29-18.03.28:902][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.28:902][288]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.03.29:415][346]MaterialEditorStats: Texture samplers: 3/16
+[2022.12.29-18.03.29:415][346]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.29-18.03.29:415][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.29:415][346]MaterialEditorStats: Shader Count: 1
+[2022.12.29-18.03.29:715][382]MaterialEditorStats: Base pass shader: 229 instructions
+[2022.12.29-18.03.29:715][382]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.29:715][382]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.29-18.03.29:716][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.29-18.03.29:716][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.29:716][382]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.03.31:888][636]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.29-18.03.31:889][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.29-18.03.31:889][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.31:889][636]MaterialEditorStats: Shader Count: 0
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: Base pass shader: 229 instructions
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.33:125][777]MaterialEditorStats: Shader Count: 4
+[2022.12.29-18.03.46:699][274]LogMaterialEditor: Saving and Compiling material M_Man_Body
+[2022.12.29-18.03.47:214][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.12.29-18.03.48:058][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.29-18.03.48:067][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.03.50:145][274]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.12.29-18.03.51:211][274]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049936s
+[2022.12.29-18.03.51:222][274]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000044s (0.057142s overbudget)
+[2022.12.29-18.03.51:248][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/M_Man_Body" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/M_Man_Body.uasset" SILENT=true
+[2022.12.29-18.03.51:249][274]LogSavePackage: Moving output files for package: /Game/Assets/Character/M_Man_Body
+[2022.12.29-18.03.51:249][274]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/M_Man_BodyDA2C5BF0496EB47529C8DA88FB48CD6A.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/M_Man_Body.uasset'
+[2022.12.29-18.03.51:256][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.18 sec (total: 4.73 sec)
+[2022.12.29-18.03.51:259][274]AssetCheck: New page: Asset Save: M_Man_Body
+[2022.12.29-18.03.51:259][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Character/M_Man_Body.M_Man_Body
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Base pass shader: 229 instructions
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: MaxSampler: 295 instructions
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.29-18.03.51:260][274]MaterialEditorStats: Shader Count: 32
+[2022.12.29-18.04.12:131][527]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.04.12:131][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.04.12:142][527]LogViewport: Scene viewport resized to 1430x902, mode Windowed.
+[2022.12.29-18.04.24:228][213]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Arms.Arms
+[2022.12.29-18.04.24:324][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.04.24:375][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.04.25:354][213]LogViewport: Scene viewport resized to 628x448, mode Windowed.
+[2022.12.29-18.04.31:759][356]LogViewport: Scene viewport resized to 625x471, mode Windowed.
+[2022.12.29-18.04.31:801][358]LogViewport: Scene viewport resized to 509x358, mode Windowed.
+[2022.12.29-18.04.31:846][359]LogViewport: Scene viewport resized to 475x324, mode Windowed.
+[2022.12.29-18.04.31:872][360]LogViewport: Scene viewport resized to 467x317, mode Windowed.
+[2022.12.29-18.04.32:361][417]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.12.29-18.04.33:235][514]LogSlate: Window 'Arms' being destroyed
+[2022.12.29-18.04.39:351][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.04.39:381][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/Arms" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Arms.uasset" SILENT=true
+[2022.12.29-18.04.39:421][243]LogSavePackage: Moving output files for package: /Game/Assets/Character/Arms
+[2022.12.29-18.04.39:421][243]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Arms676F55774B9460A92EB664BCC21BF652.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Arms.uasset'
+[2022.12.29-18.04.39:428][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.81 sec)
+[2022.12.29-18.04.39:430][243]AssetCheck: New page: Asset Save: Arms
+[2022.12.29-18.04.39:430][243]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Assets/Character/Arms.Arms
+[2022.12.29-18.04.50:918][561]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.04.50:918][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.05.02:044][848]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.29-18.05.02:052][848]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.29-18.05.02:059][849]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.29-18.05.11:075][928]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.12.29-18.05.11:075][928]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.29-18.05.27:542][558]LogShaderCompilers: Display: ================================================
+[2022.12.29-18.05.27:542][558]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.29-18.05.27:542][558]LogShaderCompilers: Display: Total job queries 1465, among them cache hits 55 (3.75%)
+[2022.12.29-18.05.27:542][558]LogShaderCompilers: Display: Tracking 1375 distinct input hashes that result in 856 distinct outputs (62.25%)
+[2022.12.29-18.05.27:542][558]LogShaderCompilers: Display: RAM used: 7.56 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.46%
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Shaders Compiled: 1375
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Jobs assigned 1378, completed 1375 (99.78%)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Average time worker was idle: 18.44 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Time job spent in pending queue: average 49.42 s, longest 103.07 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Job execution time: average 6.20 s, max 26.15 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Job life time (pending + execution): average 55.72 s, max 103.88
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 132.21 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Jobs were issued in 293 batches (only local compilation was used), average 4.70 jobs/batch
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Average processing rate: 10.40 jobs/sec
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Total thread time: 781.28 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Total thread preprocess time: 44.68 s
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Percentage time preprocessing: 5.72%
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Effective parallelization: 5.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.65 sec, max 1.65 sec, min 1.65 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.24 sec, max 2.08 sec, min 0.80 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 9.31% of total time (compiled  120 times, average 0.61 sec, max 0.83 sec, min 0.43 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.74% of total time (compiled   56 times, average 0.80 sec, max 1.24 sec, min 0.48 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.27% of total time (compiled   56 times, average 0.73 sec, max 1.60 sec, min 0.48 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.52% of total time (compiled   55 times, average 0.64 sec, max 1.06 sec, min 0.35 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display:                                               FHWRasterizePS - 3.88% of total time (compiled   56 times, average 0.54 sec, max 0.86 sec, min 0.27 sec)
+[2022.12.29-18.05.27:543][558]LogShaderCompilers: Display: ================================================
+[2022.12.29-18.05.32:556][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.05.32:586][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.05.34:190][  0]LogStaticMesh: Display: Building static mesh PhAT_FloorBox...
+[2022.12.29-18.05.34:192][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2022.12.29-18.05.34:231][  0]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2022.12.29-18.05.38:465][328]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.12.29-18.06.38:854][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.12.29-18.06.38:855][484]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2022.12.29-18.06.38:855][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/T_Man_Body_Albedo] ([1] browsable assets)...
+[2022.12.29-18.06.38:857][484]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/T_Man_Body_Albedo.T_Man_Body_Albedo]
+[2022.12.29-18.06.38:857][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/T_Man_Body_Albedo]
+[2022.12.29-18.06.38:993][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/T_Man_Body_Albedo_Auto1
+[2022.12.29-18.06.38:993][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/T_Man_Body_Albedo_Auto1E822E90248FF4AFCD4501F95628488CB.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/T_Man_Body_Albedo_Auto1.uasset'
+[2022.12.29-18.06.38:993][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/T_Man_Body_Normals] ([1] browsable assets)...
+[2022.12.29-18.06.38:995][484]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/T_Man_Body_Normals.T_Man_Body_Normals]
+[2022.12.29-18.06.38:995][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/T_Man_Body_Normals]
+[2022.12.29-18.06.39:147][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/T_Man_Body_Normals_Auto1
+[2022.12.29-18.06.39:147][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/T_Man_Body_Normals_Auto1D054A1CE436BF5183B5A37A2FFDE479D.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/T_Man_Body_Normals_Auto1.uasset'
+[2022.12.29-18.06.39:147][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Arms_Skeleton] ([1] browsable assets)...
+[2022.12.29-18.06.39:181][484]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Assets/Character/Arms_Skeleton.Arms_Skeleton]
+[2022.12.29-18.06.39:181][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Arms_Skeleton]
+[2022.12.29-18.06.39:182][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Arms_Skeleton_Auto1
+[2022.12.29-18.06.39:182][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Arms_Skeleton_Auto17F5056864642C4C2B96026BB43E32BD5.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/Arms_Skeleton_Auto1.uasset'
+[2022.12.29-18.06.39:183][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Arms_PhysicsAsset] ([1] browsable assets)...
+[2022.12.29-18.06.39:190][484]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Assets/Character/Arms_PhysicsAsset.Arms_PhysicsAsset]
+[2022.12.29-18.06.39:190][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Arms_PhysicsAsset]
+[2022.12.29-18.06.39:191][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Arms_PhysicsAsset_Auto1
+[2022.12.29-18.06.39:191][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Arms_PhysicsAsset_Auto1F5FE18B84C28ED88A4D21996D638B73E.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/Arms_PhysicsAsset_Auto1.uasset'
+[2022.12.29-18.06.39:192][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/T_Man_Body_Metallic] ([1] browsable assets)...
+[2022.12.29-18.06.39:193][484]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/T_Man_Body_Metallic.T_Man_Body_Metallic]
+[2022.12.29-18.06.39:193][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/T_Man_Body_Metallic]
+[2022.12.29-18.06.39:340][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/T_Man_Body_Metallic_Auto1
+[2022.12.29-18.06.39:340][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/T_Man_Body_Metallic_Auto1529C861748D58886569C24B8BAD455CE.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/T_Man_Body_Metallic_Auto1.uasset'
+[2022.12.29-18.06.39:341][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/T_Man_Body_Ao] ([1] browsable assets)...
+[2022.12.29-18.06.39:342][484]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/T_Man_Body_Ao.T_Man_Body_Ao]
+[2022.12.29-18.06.39:342][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/T_Man_Body_Ao]
+[2022.12.29-18.06.39:482][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/T_Man_Body_Ao_Auto1
+[2022.12.29-18.06.39:482][484]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/T_Man_Body_Ao_Auto1F59664464D876E3825887DADB7B6CA9C.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Character/T_Man_Body_Ao_Auto1.uasset'
+[2022.12.29-18.06.39:483][484]LogFileHelpers: Auto-saving content packages took 0.628
+[2022.12.29-18.06.40:826][641]LogViewport: Scene viewport resized to 1046x693, mode Windowed.
+[2022.12.29-18.07.06:508][576]LogMetaData: Removing '/Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.12.29-18.07.06:508][576]LogMetaData: Removing '/Game/Assets/Blueprints/BP_FirstPersonCharacter.SKEL_BP_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.12.29-18.07.06:508][576]LogMetaData: Removing '/Game/Assets/Blueprints/BP_FirstPersonCharacter.SKEL_BP_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.12.29-18.07.06:508][576]LogMetaData: Removing '/Game/Assets/Blueprints/BP_FirstPersonCharacter.SKEL_BP_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.12.29-18.07.06:508][576]LogMetaData: Removing '/Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.12.29-18.07.06:512][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.07.06:565][576]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2022.12.29-18.07.06:565][576]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Pickup_Rifle44F20B784EABB23B159157B1F03CD346.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2022.12.29-18.07.06:628][576]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/FirstPerson_AnimBP
+[2022.12.29-18.07.06:628][576]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/FirstPerson_AnimBPA28593224A5CAC226F1411833A725D8A.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset'
+[2022.12.29-18.07.06:638][576]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2022.12.29-18.07.06:639][576]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Weapon_Component06DEDA7340A3442C17F39F98D1DD4C58.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2022.12.29-18.07.06:641][576]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2022.12.29-18.07.06:641][576]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonGameModeD7C4454D4299277610948CB164A85765.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2022.12.29-18.07.06:650][576]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2022.12.29-18.07.06:650][576]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter6C751EFF434DEB89DA1C9BB331F8DD12.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.29-18.07.06:657][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 4.95 sec)
+[2022.12.29-18.07.06:766][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.29-18.07.06:795][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.29-18.07.06:823][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.29-18.07.06:841][576]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.29-18.07.06:841][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.07.06:841][576]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2022.12.29-18.07.06:841][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.12.29-18.07.06:841][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2022.12.29-18.07.06:841][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2022.12.29-18.07.15:564][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.07.15:612][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun_Skeleton" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" SILENT=true
+[2022.12.29-18.07.15:613][549]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2022.12.29-18.07.15:613][549]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/SK_FPGun_Skeleton787B969A4A96ABA8CDE649911C0E882C.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2022.12.29-18.07.15:625][549]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2022.12.29-18.07.15:626][549]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Pickup_Rifle1D8878464903BEAA9DE3768D4C52EC85.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2022.12.29-18.07.15:635][549]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2022.12.29-18.07.15:635][549]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/SK_FPGun_PhysicsAssetD7C6B25B4B5CE10776CB28857708754B.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2022.12.29-18.07.15:643][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun_Physics" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" SILENT=true
+[2022.12.29-18.07.15:645][549]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Physics
+[2022.12.29-18.07.15:645][549]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/SK_FPGun_Physics718B646A423BF50563BC52823025CF79.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2022.12.29-18.07.15:655][549]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2022.12.29-18.07.15:656][549]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Weapon_Component811FF5AE4F140A3F133587912B8CEA51.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2022.12.29-18.07.15:656][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.04 sec)
+[2022.12.29-18.07.15:691][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.29-18.07.15:703][549]LogUObjectGlobals: Warning: Could not delete
+[2022.12.29-18.07.15:733][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.29-18.07.15:745][549]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.29-18.07.15:745][549]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2022.12.29-18.07.15:745][549]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2022.12.29-18.07.15:745][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2022.12.29-18.07.15:745][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2022.12.29-18.08.10:326][947]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Arms_Skeleton, removing AnimBP from actor.
+[2022.12.29-18.08.10:327][947]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Arms_Skeleton, removing AnimBP from actor.
+[2022.12.29-18.08.10:328][947]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Arms_Skeleton, removing AnimBP from actor.
+[2022.12.29-18.08.14:697][305]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.08.14:806][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.29-18.08.15:120][329]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.08.15:201][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.12.29-18.08.15:746][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.08.15:803][382]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2022.12.29-18.08.15:803][382]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacterD55869A942BFDDED19058589A2DAC75D.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.29-18.08.15:811][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.11 sec)
+[2022.12.29-18.08.15:815][382]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.29-18.08.15:815][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.08.48:649][  2]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.08.48:789][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.29-18.08.49:468][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.08.49:523][ 69]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2022.12.29-18.08.49:524][ 69]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter09B9B6C84B34AD5864732484DEE09617.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.29-18.08.49:530][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 5.17 sec)
+[2022.12.29-18.08.49:535][ 69]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.29-18.08.49:535][ 69]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.09.40:856][217]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.12.29-18.09.40:865][217]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.12.29-18.09.40:869][217]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.12.29-18.09.40:880][218]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2022.12.29-18.10.03:428][406]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> IdleWalki_BS
+[2022.12.29-18.10.03:430][406]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.12.29-18.10.04:136][449]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Assets/Character/Animations/IdleWalki_BS.IdleWalki_BS
+[2022.12.29-18.10.04:205][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.10.04:211][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.10.04:341][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.10.04:727][449]LogSlate: Took 0.023346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.29-18.10.04:748][449]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2022.12.29-18.10.04:762][449]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2022.12.29-18.10.28:979][612]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.12.29-18.11.07:060][916]Cmd: TRANSACTION UNDO
+[2022.12.29-18.11.07:060][916]LogEditorTransaction: Undo Moving Blendspace Sample
+[2022.12.29-18.11.07:169][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.11.23:664][955]Cmd: TRANSACTION UNDO
+[2022.12.29-18.11.23:664][955]LogEditorTransaction: Undo Moving Blendspace Sample
+[2022.12.29-18.11.23:736][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.11.54:374][532]Cmd: TRANSACTION UNDO
+[2022.12.29-18.11.54:374][532]LogEditorTransaction: Undo Moving Blendspace Sample
+[2022.12.29-18.11.54:448][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.14.24:768][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.14.24:807][346]LogSavePackage: Moving output files for package: /Game/Assets/Character/Animations/IdleWalki_BS
+[2022.12.29-18.14.24:807][346]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/IdleWalki_BSC58449DC47501CE552FAF08632364B7F.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/IdleWalki_BS.uasset'
+[2022.12.29-18.14.24:813][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 5.22 sec)
+[2022.12.29-18.14.24:823][346]AssetCheck: New page: Asset Save: IdleWalki_BS
+[2022.12.29-18.14.24:823][346]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Assets/Character/Animations/IdleWalki_BS.IdleWalki_BS
+[2022.12.29-18.14.28:785][498]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.14.28:785][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.14.28:811][498]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.14.28:811][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.14.41:155][896]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.14.41:155][896]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.14.41:155][896]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.14.47:660][896]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.12.29-18.14.47:669][896]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.12.29-18.14.47:674][896]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.12.29-18.14.47:707][897]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2022.12.29-18.15.02:460][657]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> FPSAnimation_BP
+[2022.12.29-18.15.02:471][657]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.12.29-18.15.05:058][863]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Character/Animations/FPSAnimation_BP.FPSAnimation_BP
+[2022.12.29-18.15.05:058][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.15.05:101][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.15.05:109][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.29-18.15.05:722][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.15.05:782][863]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2022.12.29-18.15.17:200][424]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2022.12.29-18.15.17:822][494]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.12.29-18.18.11:852][207]BlueprintLog: New page: Compile FPSAnimation_BP
+[2022.12.29-18.18.11:951][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.29-18.18.12:622][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.18.12:655][277]LogSavePackage: Moving output files for package: /Game/Assets/Character/Animations/FPSAnimation_BP
+[2022.12.29-18.18.12:655][277]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/FPSAnimation_BP7108922642D119BFE6CC3B91BD20FA53.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset'
+[2022.12.29-18.18.12:661][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 5.26 sec)
+[2022.12.29-18.18.12:667][277]AssetCheck: New page: Asset Save: FPSAnimation_BP
+[2022.12.29-18.18.12:667][277]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Character/Animations/FPSAnimation_BP.FPSAnimation_BP
+[2022.12.29-18.19.38:732][547]BlueprintLog: New page: Compile FPSAnimation_BP
+[2022.12.29-18.19.38:805][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.29-18.19.39:810][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.19.39:850][661]LogSavePackage: Moving output files for package: /Game/Assets/Character/Animations/FPSAnimation_BP
+[2022.12.29-18.19.39:850][661]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/FPSAnimation_BP4E214CBA4FA03CEF77FCEC97224C83C5.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset'
+[2022.12.29-18.19.39:856][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 5.30 sec)
+[2022.12.29-18.19.39:863][661]AssetCheck: New page: Asset Save: FPSAnimation_BP
+[2022.12.29-18.19.39:863][661]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Character/Animations/FPSAnimation_BP.FPSAnimation_BP
+[2022.12.29-18.20.46:843][436]BlueprintLog: New page: Compile FPSAnimation_BP
+[2022.12.29-18.20.46:911][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.12.29-18.20.47:534][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.20.47:567][504]LogSavePackage: Moving output files for package: /Game/Assets/Character/Animations/FPSAnimation_BP
+[2022.12.29-18.20.47:567][504]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/FPSAnimation_BPD883CF7045E0584FCAFAD79426C69F98.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset'
+[2022.12.29-18.20.47:573][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 5.34 sec)
+[2022.12.29-18.20.47:579][504]AssetCheck: New page: Asset Save: FPSAnimation_BP
+[2022.12.29-18.20.47:579][504]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Character/Animations/FPSAnimation_BP.FPSAnimation_BP
+[2022.12.29-18.21.27:190][228]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.12.29-18.21.27:220][228]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.21.27:220][228]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.21.27:220][228]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.29-18.21.33:519][971]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.21.33:623][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.12.29-18.21.34:417][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.21.34:467][ 51]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2022.12.29-18.21.34:468][ 51]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter50E8C0164971AC340E6F69BF1FBDE35D.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.29-18.21.34:474][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 5.40 sec)
+[2022.12.29-18.21.34:480][ 51]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.29-18.21.34:480][ 51]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.21.44:652][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.29-18.21.44:656][229]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2022.12.29-18.21.44:662][229]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.29-18.21.44:662][229]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.29-18.21.44:662][229]LogWorldPartition: Display: GetPartitionedActors took 13 us
+[2022.12.29-18.21.44:670][229]LogWorldPartition: Display: GenerateStreaming took 12 ms
+[2022.12.29-18.21.44:688][229]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.29-18.21.44:690][229]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2022.12.29-18.21.44:698][229]LogPlayLevel: [PlayLevel] Compiling BP_Pickup_Rifle before play...
+[2022.12.29-18.21.44:764][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.12.29-18.21.44:766][229]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (2 blueprints)
+[2022.12.29-18.21.44:793][229]PIE: New page: PIE session: FirstPersonMap (29 gru 2022, 20:21:44)
+[2022.12.29-18.21.44:796][229]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.29-18.21.44:796][229]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.29-18.21.44:824][229]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.21.44:829][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2022.12.29-18.21.44:829][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004440s)
+[2022.12.29-18.21.44:829][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.21.44:829][229]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-18.21.44:829][229]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-18.21.44:829][229]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-18.21.44:829][229]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-18.21.44:830][229]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-18.21.44:830][229]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 131 ms)
+[2022.12.29-18.21.44:830][229]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2022.12.29-18.21.44:874][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.29-18.21.44:876][229]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-18.21.44:876][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-18.21.44:876][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-18.21.44:876][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-18.21.44:876][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-18.21.44:876][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-18.21.44:878][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-18.21.44:912][229]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-18.21.44:912][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-18.21.44:912][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-18.21.44:912][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-18.21.44:913][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.29-18.21.44:913][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.29-18.21.44:914][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.29-18.21.44:914][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.29-18.21.44:914][229]LogInit: FAudioDevice initialized.
+[2022.12.29-18.21.44:914][229]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.12.29-18.21.44:921][229]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.29-18.21.44:924][229]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.29-19.21.44
+[2022.12.29-18.21.44:924][229]LogWorld: Bringing up level for play took: 0.002177
+[2022.12.29-18.21.44:925][229]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.12.29-18.21.45:052][229]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2022.12.29-18.21.45:083][229]PIE: Server logged in
+[2022.12.29-18.21.45:084][229]PIE: Play in editor total start time 0,427 seconds.
+[2022.12.29-18.22.04:503][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.22.04:503][357]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.22.04:503][357]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.22.04:503][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.22.04:503][357]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2022.12.29-18.22.04:506][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-18.22.04:513][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.22.04:567][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-18.22.04:569][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.29-18.22.04:570][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.29-18.22.04:573][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.22.04:589][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.29-18.22.04:636][358]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.12.29-18.22.39:186][358]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.22.39:304][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.12.29-18.22.41:913][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.29-18.22.41:916][595]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2022.12.29-18.22.41:917][595]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.29-18.22.41:917][595]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.29-18.22.41:917][595]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 18 us)
+[2022.12.29-18.22.41:917][595]LogWorldPartition: Display: GenerateStreaming took 221 us (total: 12 ms)
+[2022.12.29-18.22.41:917][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.29-18.22.41:917][595]PIE: New page: PIE session: FirstPersonMap (29 gru 2022, 20:22:41)
+[2022.12.29-18.22.41:917][595]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.22.41:922][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004620s)
+[2022.12.29-18.22.41:922][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004653s)
+[2022.12.29-18.22.41:922][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.22.41:922][595]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-18.22.41:923][595]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-18.22.41:923][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-18.22.41:923][595]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-18.22.41:924][595]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-18.22.41:924][595]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 133 ms)
+[2022.12.29-18.22.41:924][595]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2022.12.29-18.22.41:975][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.29-18.22.41:977][595]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-18.22.41:977][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-18.22.41:977][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-18.22.41:977][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-18.22.41:977][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-18.22.41:977][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-18.22.41:979][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-18.22.42:011][595]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-18.22.42:011][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-18.22.42:011][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-18.22.42:011][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-18.22.42:011][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.29-18.22.42:011][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.29-18.22.42:013][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.29-18.22.42:013][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.29-18.22.42:013][595]LogInit: FAudioDevice initialized.
+[2022.12.29-18.22.42:013][595]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2022.12.29-18.22.42:015][595]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.29-18.22.42:018][595]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.29-19.22.42
+[2022.12.29-18.22.42:018][595]LogWorld: Bringing up level for play took: 0.002125
+[2022.12.29-18.22.42:019][595]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.12.29-18.22.42:021][595]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2022.12.29-18.22.42:021][595]PIE: Server logged in
+[2022.12.29-18.22.42:021][595]PIE: Play in editor total start time 0,106 seconds.
+[2022.12.29-18.22.48:608][350]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.50:033][509]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.50:502][562]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.51:648][695]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.52:450][784]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.53:055][854]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.53:632][918]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.54:365][  2]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.54:989][ 76]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.55:528][140]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.22.56:463][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.22.56:463][246]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.22.56:463][246]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.22.56:463][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.22.56:463][246]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2022.12.29-18.22.56:466][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-18.22.56:473][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.22.56:523][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-18.22.56:523][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.29-18.22.56:525][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.29-18.22.56:528][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.22.56:532][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.12.29-18.22.56:576][247]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.12.29-18.23.03:740][ 21]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.23.03:852][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.29-18.23.05:906][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.29-18.23.05:910][199]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2022.12.29-18.23.05:911][199]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.29-18.23.05:911][199]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.29-18.23.05:911][199]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 24 us)
+[2022.12.29-18.23.05:911][199]LogWorldPartition: Display: GenerateStreaming took 248 us (total: 12 ms)
+[2022.12.29-18.23.05:911][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.29-18.23.05:911][199]PIE: New page: PIE session: FirstPersonMap (29 gru 2022, 20:23:05)
+[2022.12.29-18.23.05:933][199]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.23.05:937][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004341s)
+[2022.12.29-18.23.05:937][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004369s)
+[2022.12.29-18.23.05:937][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.23.05:938][199]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-18.23.05:938][199]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-18.23.05:938][199]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-18.23.05:938][199]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-18.23.05:939][199]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-18.23.05:939][199]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 134 ms)
+[2022.12.29-18.23.05:939][199]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2022.12.29-18.23.05:989][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.12.29-18.23.05:991][199]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-18.23.05:991][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-18.23.05:991][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-18.23.05:992][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-18.23.05:992][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-18.23.05:992][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-18.23.05:993][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-18.23.06:025][199]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-18.23.06:025][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-18.23.06:025][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-18.23.06:025][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-18.23.06:026][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.29-18.23.06:026][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.29-18.23.06:027][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.29-18.23.06:027][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.29-18.23.06:027][199]LogInit: FAudioDevice initialized.
+[2022.12.29-18.23.06:027][199]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2022.12.29-18.23.06:030][199]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.29-18.23.06:032][199]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.29-19.23.06
+[2022.12.29-18.23.06:032][199]LogWorld: Bringing up level for play took: 0.002120
+[2022.12.29-18.23.06:034][199]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.12.29-18.23.06:035][199]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2022.12.29-18.23.06:035][199]PIE: Server logged in
+[2022.12.29-18.23.06:036][199]PIE: Play in editor total start time 0,126 seconds.
+[2022.12.29-18.23.07:823][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.23.07:823][397]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.23.07:823][397]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.23.07:823][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.23.07:823][397]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2022.12.29-18.23.07:826][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-18.23.07:832][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.23.07:881][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.23.07:881][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.29-18.23.07:883][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.29-18.23.07:889][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.29-18.23.07:936][398]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.29-18.23.12:925][935]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.23.13:039][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.29-18.23.15:109][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.29-18.23.15:113][109]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2022.12.29-18.23.15:114][109]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.29-18.23.15:114][109]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.29-18.23.15:114][109]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 29 us)
+[2022.12.29-18.23.15:114][109]LogWorldPartition: Display: GenerateStreaming took 225 us (total: 13 ms)
+[2022.12.29-18.23.15:114][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.29-18.23.15:114][109]PIE: New page: PIE session: FirstPersonMap (29 gru 2022, 20:23:15)
+[2022.12.29-18.23.15:152][109]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.23.15:157][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004179s)
+[2022.12.29-18.23.15:157][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004212s)
+[2022.12.29-18.23.15:157][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.23.15:157][109]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-18.23.15:157][109]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-18.23.15:157][109]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-18.23.15:157][109]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-18.23.15:158][109]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-18.23.15:158][109]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 135 ms)
+[2022.12.29-18.23.15:158][109]LogPlayLevel: PIE: World Init took: (0.001782s)
+[2022.12.29-18.23.15:210][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.29-18.23.15:212][109]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-18.23.15:212][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-18.23.15:212][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-18.23.15:213][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-18.23.15:213][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-18.23.15:213][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-18.23.15:214][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-18.23.15:247][109]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-18.23.15:247][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-18.23.15:247][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-18.23.15:247][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-18.23.15:247][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.29-18.23.15:247][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.29-18.23.15:249][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.29-18.23.15:249][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.29-18.23.15:249][109]LogInit: FAudioDevice initialized.
+[2022.12.29-18.23.15:249][109]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2022.12.29-18.23.15:251][109]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.29-18.23.15:253][109]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.29-19.23.15
+[2022.12.29-18.23.15:254][109]LogWorld: Bringing up level for play took: 0.002030
+[2022.12.29-18.23.15:255][109]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.12.29-18.23.15:256][109]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2022.12.29-18.23.15:257][109]PIE: Server logged in
+[2022.12.29-18.23.15:257][109]PIE: Play in editor total start time 0,144 seconds.
+[2022.12.29-18.23.17:553][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.23.17:553][370]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.23.17:553][370]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.23.17:553][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.23.17:553][370]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2022.12.29-18.23.17:556][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-18.23.17:562][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.23.17:612][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-18.23.17:613][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.29-18.23.17:614][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.29-18.23.17:617][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.23.17:620][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.29-18.23.17:665][371]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.29-18.23.22:492][896]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.29-18.23.22:607][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.29-18.23.24:179][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.29-18.23.24:182][ 23]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2022.12.29-18.23.24:184][ 23]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.29-18.23.24:184][ 23]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.29-18.23.24:184][ 23]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 34 us)
+[2022.12.29-18.23.24:184][ 23]LogWorldPartition: Display: GenerateStreaming took 229 us (total: 13 ms)
+[2022.12.29-18.23.24:184][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.29-18.23.24:184][ 23]PIE: New page: PIE session: FirstPersonMap (29 gru 2022, 20:23:24)
+[2022.12.29-18.23.24:213][ 23]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.23.24:217][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2022.12.29-18.23.24:217][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004230s)
+[2022.12.29-18.23.24:217][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.29-18.23.24:217][ 23]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.29-18.23.24:218][ 23]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.29-18.23.24:218][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.29-18.23.24:218][ 23]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.29-18.23.24:219][ 23]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2022.12.29-18.23.24:219][ 23]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 136 ms)
+[2022.12.29-18.23.24:219][ 23]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2022.12.29-18.23.24:271][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.12.29-18.23.24:273][ 23]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.29-18.23.24:273][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-18.23.24:273][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-18.23.24:273][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-18.23.24:273][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-18.23.24:273][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-18.23.24:275][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.29-18.23.24:308][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.29-18.23.24:310][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.29-18.23.24:310][ 23]LogInit: FAudioDevice initialized.
+[2022.12.29-18.23.24:310][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.29-18.23.24:310][ 23]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2022.12.29-18.23.24:313][ 23]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.29-18.23.24:315][ 23]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.29-19.23.24
+[2022.12.29-18.23.24:315][ 23]LogWorld: Bringing up level for play took: 0.001995
+[2022.12.29-18.23.24:316][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.12.29-18.23.24:317][ 23]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2022.12.29-18.23.24:318][ 23]PIE: Server logged in
+[2022.12.29-18.23.24:318][ 23]PIE: Play in editor total start time 0,136 seconds.
+[2022.12.29-18.23.54:161][465]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.55:317][599]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.56:067][684]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.56:236][703]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.56:477][730]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.56:659][751]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.56:835][772]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.57:028][795]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.57:236][820]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.57:486][849]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.58:096][920]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.23.59:941][135]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.24.01:259][281]LogAnimMontage: Warning: Playing a Montage (FP_Rifle_Shoot_Montage) for the wrong Skeleton (Arms_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2022.12.29-18.24.03:433][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.24.03:434][521]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.29-18.24.03:434][521]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-18.24.03:434][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.24.03:435][521]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2022.12.29-18.24.03:441][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-18.24.03:447][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-18.24.03:496][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-18.24.03:497][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.29-18.24.03:498][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.29-18.24.03:501][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-18.24.03:505][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.29-18.24.03:549][522]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.29-18.24.06:058][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.29-18.24.06:096][752]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2022.12.29-18.24.06:097][752]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter1F920CDD4EEC8263CA3D9B8C22E6A24E.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.29-18.24.06:103][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 5.44 sec)
+[2022.12.29-18.24.06:111][752]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.29-18.24.06:111][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.29-18.24.31:727][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.29-18.24.31:731][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto2
+[2022.12.29-18.24.31:731][343]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/EAHCBN229IT8APJO305AH5_Auto222E68D6B46E5B0FDF7417998FB0B00BA.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto2.uasset'
+[2022.12.29-18.24.31:731][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.054
+[2022.12.29-18.24.31:731][343]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054

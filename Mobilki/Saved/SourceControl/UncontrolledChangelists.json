@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/M_Man_Body.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Arms.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/IdleWalki_BS.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset"
 			]
 		}
 	]
