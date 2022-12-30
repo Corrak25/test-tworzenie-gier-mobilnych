@@ -13,12 +13,28 @@
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset",
-				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/IdleWalki_BS.uasset",
-				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset"
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/FPSAnimation_BP.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/AimFire.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/AimPose.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/AimtoIdle.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Arms_PhysicsAsset.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Arms_Skeleton.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/Idle.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/IdleFIre.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/IdleToAim.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/Reload.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/Animations/run.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/T_Man_Body_Albedo.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/T_Man_Body_Ao.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/T_Man_Body_Metallic.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Character/T_Man_Body_Normals.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
