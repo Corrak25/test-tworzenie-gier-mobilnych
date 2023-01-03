@@ -48,6 +48,10 @@
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/ZombieGirl_Material_ncl1_2.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/zombiegirl_PhysicsAsset.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/zombiegirl_Skeleton.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_ZombieG.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/Zombie_BS.uasset",
+				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.uasset",
 				"X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
