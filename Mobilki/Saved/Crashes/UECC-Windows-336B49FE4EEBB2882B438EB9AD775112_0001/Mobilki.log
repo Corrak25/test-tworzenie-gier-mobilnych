@@ -1631,14 +1631,3 @@ Script Stack (0 frames) :
 [2023.01.06-11.22.19:040][600]LogOutputDevice: Error: [Callstack] 0x00007fffc5177614 KERNEL32.DLL!UnknownFunction []
 [2023.01.06-11.22.19:040][600]LogOutputDevice: Error: [Callstack] 0x00007fffc70a26a1 ntdll.dll!UnknownFunction []
 [2023.01.06-11.22.19:040][600]LogOutputDevice: Error: 
-[2023.01.06-11.22.19:048][600]LogStats:                SubmitErrorReport -  0.000 s
-[2023.01.06-11.22.19:912][600]LogStats:                    SendNewReport -  0.864 s
-[2023.01.06-11.22.19:912][600]LogStats:             FDebug::EnsureFailed -  0.927 s
-[2023.01.06-11.23.30:907][962]BlueprintLog: New page: Compile BP_FirstPersonCharacter
-[2023.01.06-11.23.31:008][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
-[2023.01.06-11.23.32:397][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.01.06-11.23.32:460][115]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
-[2023.01.06-11.23.32:460][115]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter9944B8974B8AE37F20CFB18D2910F3C7.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
-[2023.01.06-11.23.32:466][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.16 sec)
-[2023.01.06-11.23.32:473][115]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
-[2023.01.06-11.23.32:473][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
