@@ -2712,3 +2712,138 @@ Script Stack (0 frames) :
 [2023.01.06-13.19.43:722][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.06-13.19.43:725][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.01.06-13.19.43:756][956]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.01.06-13.21.01:168][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.06-13.21.01:171][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.063
+[2023.01.06-13.31.01:515][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.06-13.31.01:516][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.063
+[2023.01.06-13.41.02:214][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.06-13.41.02:215][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.057
+[2023.01.06-13.51.02:921][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.06-13.51.02:922][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.059
+[2023.01.06-14.01.03:623][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.06-14.01.03:625][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.059
+[2023.01.06-14.07.00:876][158]LogDerivedDataCache: C:/Users/Corrak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.083 and deleted 0 files with total size 0 MiB. Scanned 3284 files in 3255 folders with total size 793 MiB.
+[2023.01.06-14.11.04:323][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.06-14.11.04:325][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.062
+[2023.01.06-14.21.05:024][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.06-14.21.05:026][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.059
+[2023.01.06-14.26.44:151][708]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Sound BlasterX Katana), InstanceID=1
+[2023.01.06-14.26.44:300][708]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22024
+[2023.01.06-14.26.44:635][709]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6137b298-57a1-44c3-8147-8687d33fa65a}, Name=Speakers (Sound BlasterX Katana)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=39.47
+[2023.01.06-14.26.44:635][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.06-14.26.44:637][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.06-14.29.22:337][433]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-14.29.22:460][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.01.06-14.29.23:093][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-14.29.23:137][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/Zombie/BP_Zombie" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset" SILENT=true
+[2023.01.06-14.29.23:150][499]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/BP_Zombie
+[2023.01.06-14.29.23:150][499]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie3EBC963647CCDBE4611E47997E247D11.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset'
+[2023.01.06-14.29.23:157][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.03 sec)
+[2023.01.06-14.29.23:165][499]AssetCheck: New page: Asset Save: BP_Zombie
+[2023.01.06-14.29.23:165][499]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie
+[2023.01.06-14.30.29:809][388]LogEditorTransaction: Undo Add Node
+[2023.01.06-14.30.30:006][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.06-14.30.30:010][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.01.06-14.30.47:083][397]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-14.30.47:205][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.01.06-14.31.12:141][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.01.06-14.31.12:143][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.060
+[2023.01.06-14.31.12:143][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Zombie/BP_Zombie] ([2] browsable assets)...
+[2023.01.06-14.31.12:164][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie]
+[2023.01.06-14.31.12:165][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Zombie/BP_Zombie]
+[2023.01.06-14.31.12:177][338]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto7
+[2023.01.06-14.31.12:177][338]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie_Auto7795F672F42CD338C7483C0A155325602.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto7.uasset'
+[2023.01.06-14.31.12:178][338]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.01.06-14.41.12:122][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.01.06-14.41.12:124][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.062
+[2023.01.06-14.50.52:656][900]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-14.50.52:780][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.06-14.50.53:445][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-14.50.53:484][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/Zombie/BP_Zombie" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset" SILENT=true
+[2023.01.06-14.50.53:497][970]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/BP_Zombie
+[2023.01.06-14.50.53:497][970]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie27C5AF2B453031A7378A65B8F6E0CB49.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset'
+[2023.01.06-14.50.53:504][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.09 sec)
+[2023.01.06-14.50.53:512][970]AssetCheck: New page: Asset Save: BP_Zombie
+[2023.01.06-14.50.53:512][970]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie
+[2023.01.06-14.51.14:080][618]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.01.06-14.51.14:196][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.01.06-14.51.14:502][632]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.01.06-14.51.14:617][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.01.06-14.51.34:181][543]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.01.06-14.51.34:298][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.01.06-14.51.34:821][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-14.51.34:890][585]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2023.01.06-14.51.34:891][585]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter1D12BC22475FB0F0D15E648A7692DDE1.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.01.06-14.51.34:898][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.17 sec)
+[2023.01.06-14.51.34:909][585]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.01.06-14.51.34:909][585]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.06-14.51.41:611][305]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Widgets/MainWidget.MainWidget
+[2023.01.06-14.51.41:611][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-14.51.41:625][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-14.51.42:038][305]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.06-14.51.42:038][305]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.06-14.52.07:626][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.06-14.52.07:628][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.068
+[2023.01.06-14.52.07:628][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/MainWidget] ([2] browsable assets)...
+[2023.01.06-14.52.07:630][200]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/MainWidget.MainWidget]
+[2023.01.06-14.52.07:630][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/MainWidget]
+[2023.01.06-14.52.07:633][200]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Widgets/MainWidget_Auto8
+[2023.01.06-14.52.07:633][200]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/MainWidget_Auto8B600AF8D44263DA0CAFEF4A074DA52CF.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Widgets/MainWidget_Auto8.uasset'
+[2023.01.06-14.52.07:633][200]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.01.06-14.52.32:296][445]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.06-14.54.44:055][649]BlueprintLog: New page: Compile MainWidget
+[2023.01.06-14.54.44:208][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.06-14.54.45:456][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-14.54.45:487][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/MainWidget" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Widgets/MainWidget.uasset" SILENT=true
+[2023.01.06-14.54.45:491][786]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/MainWidget
+[2023.01.06-14.54.45:492][786]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/MainWidget12F5139045A5DAF7420FA9B40D4FD228.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Widgets/MainWidget.uasset'
+[2023.01.06-14.54.45:498][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 3.21 sec)
+[2023.01.06-14.54.45:506][786]AssetCheck: New page: Asset Save: MainWidget
+[2023.01.06-14.54.45:506][786]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/Widgets/MainWidget.MainWidget
+[2023.01.06-14.56.18:012][215]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Zombie/Animations/zombie_attack_Montage.zombie_attack_Montage
+[2023.01.06-14.56.18:012][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-14.56.18:021][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.06-14.56.18:154][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-14.56.18:360][215]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.01.06-14.56.38:245][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-14.56.38:283][338]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2023.01.06-14.57.01:328][738]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-14.57.01:328][738]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-14.57.01:328][738]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-14.58.05:370][544]LogViewport: Scene viewport resized to 1046x846, mode Windowed.
+[2023.01.06-14.58.06:488][671]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-14.58.06:495][671]LogBlueprint: Error: [AssetLog] X:\WSF\Tworzenie gier mobilnych\test-tworzenie-gier-mobilnych\Mobilki\Content\Assets\Enemies\Zombie\BP_Zombie.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2023.01.06-14.58.06:622][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.06-14.58.58:391][328]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-14.58.58:398][328]LogBlueprint: Error: [AssetLog] X:\WSF\Tworzenie gier mobilnych\test-tworzenie-gier-mobilnych\Mobilki\Content\Assets\Enemies\Zombie\BP_Zombie.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2023.01.06-14.58.58:497][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.06-15.00.09:764][849]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-15.00.09:764][849]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-15.00.09:764][849]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-15.01.37:949][599]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.06-15.02.09:489][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.06-15.02.09:492][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.073
+[2023.01.06-15.02.09:492][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Zombie/BP_Zombie] ([2] browsable assets)...
+[2023.01.06-15.02.09:501][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie]
+[2023.01.06-15.02.09:501][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Zombie/BP_Zombie]
+[2023.01.06-15.02.09:516][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto9
+[2023.01.06-15.02.09:516][427]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie_Auto9DD01B9D54638CF928CB5EA9EFBD47105.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto9.uasset'
+[2023.01.06-15.02.09:517][427]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.01.06-15.07.01:878][302]LogDerivedDataCache: C:/Users/Corrak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.084 and deleted 0 files with total size 0 MiB. Scanned 3284 files in 3255 folders with total size 793 MiB.
+[2023.01.06-15.08.06:043][710]BlueprintLog: New page: Compile BP_Zombie
+[2023.01.06-15.08.06:205][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.06-15.08.06:930][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-15.08.06:962][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/Zombie/BP_Zombie" FILE="X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset" SILENT=true
+[2023.01.06-15.08.06:978][781]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/BP_Zombie
+[2023.01.06-15.08.06:979][781]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie5482E31E4744EDA35FE3F2933FEF6B6A.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/BP_Zombie.uasset'
+[2023.01.06-15.08.06:986][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.27 sec)
+[2023.01.06-15.08.06:994][781]AssetCheck: New page: Asset Save: BP_Zombie
+[2023.01.06-15.08.06:994][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie
+[2023.01.06-15.12.28:408][692]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.01.06-15.12.28:628][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.01.06-15.12.29:855][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-15.12.29:917][816]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_FirstPersonCharacter
+[2023.01.06-15.12.29:917][816]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_FirstPersonCharacter42FCFBB444899B5C6BA990BD7AE4967B.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.01.06-15.12.29:924][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.34 sec)
+[2023.01.06-15.12.29:933][816]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.01.06-15.12.29:933][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
