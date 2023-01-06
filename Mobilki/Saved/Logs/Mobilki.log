@@ -1903,3 +1903,88 @@ Script Stack (0 frames) :
 [2023.01.06-11.48.42:052][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.80 sec)
 [2023.01.06-11.48.42:060][109]AssetCheck: New page: Asset Save: BP_Zombie
 [2023.01.06-11.48.42:060][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie
+[2023.01.06-12.07.00:875][561]LogDerivedDataCache: C:/Users/Corrak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.082 and deleted 0 files with total size 0 MiB. Scanned 3186 files in 3159 folders with total size 792 MiB.
+[2023.01.06-12.39.49:851][211]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Enemies/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com.Zombie_Reaction_Hit_mixamo_com
+[2023.01.06-12.39.49:852][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-12.39.49:867][211]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.06-12.39.50:009][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-12.39.50:171][211]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.01.06-12.39.50:178][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-12.39.50:201][211]LogViewport: Scene viewport resized to 628x288, mode Windowed.
+[2023.01.06-12.39.50:223][211]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.01.06-12.39.51:958][325]LogViewport: Scene viewport resized to 625x301, mode Windowed.
+[2023.01.06-12.39.52:016][327]LogViewport: Scene viewport resized to 495x225, mode Windowed.
+[2023.01.06-12.39.52:050][328]LogViewport: Scene viewport resized to 467x209, mode Windowed.
+[2023.01.06-12.39.52:175][335]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.01.06-12.39.52:484][364]LogSlate: Window 'Zombie_Reaction_Hit_mixamo_com' being destroyed
+[2023.01.06-12.40.17:214][556]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-12.40.17:215][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-12.40.17:227][556]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-12.40.17:227][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-12.40.17:290][556]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-12.40.17:290][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-12.40.28:389][601]LogContentBrowser: Deferred new asset file creation: Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.40.28:399][601]LogContentBrowser: Creating deferred item: Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.40.28:410][602]LogContentBrowser: Renaming the item being created (Deferred Item: Zombie_Reaction_Hit_mixamo_com_Montage).
+[2023.01.06-12.40.29:518][729]LogContentBrowser: Attempting asset rename: Zombie_Reaction_Hit_mixamo_com_Montage -> Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.40.29:522][729]LogContentBrowser: End creating deferred item Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.41.43:649][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.06-12.41.43:653][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.077
+[2023.01.06-12.41.43:653][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Zombie/BP_Zombie] ([2] browsable assets)...
+[2023.01.06-12.41.43:676][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Enemies/Zombie/BP_Zombie.BP_Zombie]
+[2023.01.06-12.41.43:676][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Zombie/BP_Zombie]
+[2023.01.06-12.41.43:689][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto4
+[2023.01.06-12.41.43:689][559]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_Zombie_Auto4D548F7904C6AAE2196BE21A19A5A58F0.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Autosaves/Game/Assets/Enemies/Zombie/BP_Zombie_Auto4.uasset'
+[2023.01.06-12.41.43:689][559]LogFileHelpers: Auto-saving content packages took 0.036
+[2023.01.06-12.43.10:400][637]BlueprintLog: New page: Compile BP_ZombieAnim
+[2023.01.06-12.43.10:484][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.06-12.43.11:014][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-12.43.11:058][690]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim
+[2023.01.06-12.43.11:058][690]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_ZombieAnimABD920D14E3F497B5FD1D4B01975124E.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.uasset'
+[2023.01.06-12.43.11:063][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.85 sec)
+[2023.01.06-12.43.11:071][690]AssetCheck: New page: Asset Save: BP_ZombieAnim
+[2023.01.06-12.43.11:071][690]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.BP_ZombieAnim
+[2023.01.06-12.44.55:444][365]BlueprintLog: New page: Compile BP_ZombieAnim
+[2023.01.06-12.44.55:532][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.01.06-12.44.56:032][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-12.44.56:072][417]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim
+[2023.01.06-12.44.56:072][417]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_ZombieAnim38CFC3F342A3BB2192EB2FBC9367AF74.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.uasset'
+[2023.01.06-12.44.56:079][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.90 sec)
+[2023.01.06-12.44.56:086][417]AssetCheck: New page: Asset Save: BP_ZombieAnim
+[2023.01.06-12.44.56:086][417]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.BP_ZombieAnim
+[2023.01.06-12.45.23:179][819]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.45.23:179][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-12.45.23:200][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.06-12.45.23:349][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-12.45.23:507][819]LogViewport: Scene viewport resized to 628x288, mode Windowed.
+[2023.01.06-12.45.25:286][938]LogViewport: Scene viewport resized to 625x301, mode Windowed.
+[2023.01.06-12.45.25:349][940]LogViewport: Scene viewport resized to 490x222, mode Windowed.
+[2023.01.06-12.45.25:382][941]LogViewport: Scene viewport resized to 467x209, mode Windowed.
+[2023.01.06-12.45.25:736][965]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.01.06-12.45.26:036][992]LogSlate: Window 'Zombie_Reaction_Hit_mixamo_com_Montage' being destroyed
+[2023.01.06-12.47.49:303][ 54]BlueprintLog: New page: Compile BP_ZombieAnim
+[2023.01.06-12.47.49:394][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.06-12.47.50:048][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-12.47.50:092][119]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim
+[2023.01.06-12.47.50:092][119]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_ZombieAnim2071042042F6463F38F6E990E438F092.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.uasset'
+[2023.01.06-12.47.50:099][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.95 sec)
+[2023.01.06-12.47.50:107][119]AssetCheck: New page: Asset Save: BP_ZombieAnim
+[2023.01.06-12.47.50:107][119]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.BP_ZombieAnim
+[2023.01.06-12.48.02:037][517]BlueprintLog: New page: Compile BP_ZombieAnim
+[2023.01.06-12.48.02:123][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.01.06-12.48.02:675][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-12.48.02:719][569]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim
+[2023.01.06-12.48.02:719][569]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/BP_ZombieAnim46345CD44182411EF89A4DA26CFCF507.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.uasset'
+[2023.01.06-12.48.02:725][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.00 sec)
+[2023.01.06-12.48.02:733][569]AssetCheck: New page: Asset Save: BP_ZombieAnim
+[2023.01.06-12.48.02:733][569]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Enemies/Zombie/Animations/BP_ZombieAnim.BP_ZombieAnim
+[2023.01.06-12.48.27:537][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.06-12.48.27:589][421]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.48.27:589][421]LogSavePackage: Moving 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Saved/Zombie_Reaction_Hit_mixamo_com_M5998B69741BDC1C3A64AACA9EF32F767.tmp' to 'X:/WSF/Tworzenie gier mobilnych/test-tworzenie-gier-mobilnych/Mobilki/Content/Assets/Enemies/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.uasset'
+[2023.01.06-12.48.27:597][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.06 sec)
+[2023.01.06-12.48.27:604][421]AssetCheck: New page: Asset Save: Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.48.27:604][421]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Assets/Enemies/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.Zombie_Reaction_Hit_mixamo_com_Montage
+[2023.01.06-12.48.30:877][806]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-12.48.30:877][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-12.48.30:947][806]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-12.48.30:947][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
