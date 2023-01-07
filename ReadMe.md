@@ -41,3 +41,6 @@
 
 
    Najemnik z amnezją zostaje odnaleziony w opuszczonej trupiarce rozbitej na terenie postapokaliptycznego Radomia przez lokalnego handlarza, który pomaga mu odkryć sekret przeszłości oraz przeżyć w świecie pełnym zmutowanych wiewiórek. Pierwszoosbowa strzelanka wzorowana na grach z serii S.T.A.L.K.E.R.
+
+---
+	Tutorial <https://www.youtube.com/watch?v=qOam3QjGE8g&t=2690s&ab_channel=SmartPoly>
